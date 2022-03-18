@@ -5,4 +5,10 @@ Renamed elements in the navigation section to follow semantic HTML. Also renamed
 
 Renamed "hero" <div> to <section> so that it is more aligned with semantic HTML.
 
-Fixed search engine optimization navigation link.
+Fixed search engine optimization navigation link by adding corresponding id attribute.
+
+Added alt attribute to all .jpg and .png
+
+Removed closing image tag in cost management div.
+
+Changed title to "Horiseon".
