@@ -27,4 +27,4 @@
 
 ## screenshot of website
 
-![Screenshot](/relative/path/to/screenshot.png?raw=true "Optional Title")
+![Screenshot](https://github.com/vengster/horiseon/tree/main/assets/images/screenshot.png "Optional Title")
