@@ -4,6 +4,7 @@
 
 
 ## LIST OF CHANGES MADE TO THE CODE
+
 * Made notes for myself on HTML file to outline a more semantic strucutre to the code.
 
 * Renamed elements in the navigation section to follow semantic HTML. Also renamed the css selectors to the respective elements that were changed in the HTML. 
@@ -18,4 +19,12 @@
 
 * Changed title to "Horiseon".
 
-* Consolidated 3 divs in the content class.
+* Consolidated div, h3, and img elements under benefits class in css file.
+
+* Consolidated div img and h2 elements under content class in css file.
+
+
+
+## screenshot of website
+
+![Alt text](/relative/path/to/screenshot.png?raw=true "Optional Title)
