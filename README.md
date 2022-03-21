@@ -27,4 +27,7 @@
 
 ## screenshot of website
 
-![Screenshot](https://github.com/vengster/horiseon/tree/main/assets/images/screenshot.png "Optional Title")
+![Screenshot](assets/images/screenshot.png)
+
+## link to website
+[link to website](https://vengster.github.io/horiseon/)
