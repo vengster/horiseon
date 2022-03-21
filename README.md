@@ -27,4 +27,4 @@
 
 ## screenshot of website
 
-![Alt text](.assets/images/screenshot.png?raw=true "Optional Title")
+![Screenshot](/relative/path/to/screenshot.png?raw=true "Optional Title")
