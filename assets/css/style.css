@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* changed the header class selector to an element selector to refelct changes made in the html */
 
 header {
     padding: 20px;
@@ -101,9 +102,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* consolidated div, img and h2 elements under parent content class */
-.content div {
+/* renamed divs in content section to articles for a more semantic flow */
+/* consolidated article, img and h2 elements under parent content class */
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -120,14 +121,16 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* renamed div element in footer section into a proper footer element */ 
+/* made changes to css footer selectors according to the html changes */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
